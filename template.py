@@ -22,7 +22,7 @@ list_of_files = [
     f"tests/__init__.py",
     f"tests/unit/__init__.py",
     f"tests/integration/__init__.py",
-    "init_setup.sh",
+    # "init_setup.sh",
     "requirements.txt",
     "setup.py",
     "pyproject.toml",
