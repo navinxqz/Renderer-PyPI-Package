@@ -15,4 +15,4 @@ logging.basicConfig(
         logging.StreamHandler(sys.stdout)
     ],
 )
-logger = logging.getLogger("renderer-pypi")
+logger = logging.getLogger("renderer_pypi")
