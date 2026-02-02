@@ -2,7 +2,7 @@ import setuptools
 with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
-__version__ = "0.0.1"
+__version__ = "0.0.2"
 REPO_NAME = "Renderer-PyPI-Package"
 AUTHOR_USER_NAME = "navinxqz"
 AUTHOR_EMAIL = "navinmdnawshin@gmail.com"
